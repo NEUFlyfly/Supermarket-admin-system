@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1743163925 source:c:\users\18303\desktop\code\curriculumdesign\goods.c
+	"goods.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1743161951 c:\users\18303\desktop\code\curriculumdesign\goods.h
+	"sale.h"
+
+1743182004 source:c:\users\18303\desktop\code\curriculumdesign\salesperson.c
+	"salesperson.h"
+	"sale.h"
+	"goods.h"
+	"purchase.h"
+	"customer.h"
+	"system.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1743156576 source:c:\users\18303\desktop\code\curriculumdesign\system.c
+	"system.h"
+	<time.h>
+	<stdio.h>
+	<string.h>
+
+1743156599 c:\users\18303\desktop\code\curriculumdesign\system.h
+
+1743216028 source:c:\users\18303\desktop\code\curriculumdesign\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"system.h"
+	"purchase.h"
+	"goods.h"
+	"admin.h"
+	"sale.h"
+	"customer.h"
+	"salesperson.h"
+
+1743214908 source:c:\users\18303\desktop\code\curriculumdesign\admin.c
+	"admin.h"
+	"goods.h"
+	"purchase.h"
+	"customer.h"
+	"stdlib.h"
+	"system.h"
+	<time.h>
+	<stdio.h>
+	<string.h>
+
+1743182004 c:\users\18303\desktop\code\curriculumdesign\admin.h
+
+1743156576 c:\users\18303\desktop\code\curriculumdesign\purchase.h
+
+1743079929 source:c:\users\18303\desktop\code\curriculumdesign\purchase.c
+	"purchase.h"
+	"stdlib.h"
+
+1743182004 c:\users\18303\desktop\code\curriculumdesign\customer.h
+
+1743216398 source:c:\users\18303\desktop\code\curriculumdesign\customer.c
+	"customer.h"
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1743158906 c:\users\18303\desktop\code\curriculumdesign\sale.h
+
+1743158921 source:c:\users\18303\desktop\code\curriculumdesign\sale.c
+	"sale.h"
+	"stdlib.h"
+	<stdio.h>
+	<string.h>
+
+1743163228 c:\users\18303\desktop\code\curriculumdesign\salesperson.h
+
